@@ -22,7 +22,7 @@ if A:
 
 """Los condicionales nos permiten escribir código diferenciado, si por ejemplo quisieramos encontrar el valor absoluto de un número lo podríamos hacer de la siguiente manera:"""
 
-numero=-25
+numero=-2
 if numero>=0:
   valor=numero
 elif numero<0:
